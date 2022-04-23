@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zlarkisz/Node.js-Crash-Tutorial#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "lodash": "^4.17.21"
   }
 }
